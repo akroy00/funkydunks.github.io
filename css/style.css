@@ -2,7 +2,6 @@ html {
     height: 100%;
 }
 body {
-	background: #FF8100;
     background-size: 120% auto;
     position: fixed;
 	padding: 0px;
@@ -16,7 +15,7 @@ body:before {
     content: "";
     height: 0px;
     padding: 0px;
-    border: 110em solid #313440;
+    border: 110em solid #4E53D2;
 	position: absolute;
 	left: 50%;
 	top: 100%;
